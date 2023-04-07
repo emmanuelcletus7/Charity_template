@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#imghead{
+    background-image: url(../img/istockphoto-1372606843-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
